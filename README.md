@@ -3,8 +3,12 @@ For more infos and references please check the gituhb page and catalog
 https://github.com/nativefier/nativefier
 https://github.com/nativefier/nativefier/blob/master/CATALOG.md
 
-### Tip:
-Use ctrl + r to reload
+## Tips:
+
+### 1.1 - Show menu bar
+ctrl
+### 1.1 - Reload page
+ctrl + r  
 
 
 ### 1.1 - Create Windows app from a website:
