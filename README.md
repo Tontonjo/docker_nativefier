@@ -1,8 +1,7 @@
 # docker_nativefier
-For more infos and references please check the gituhb page and catalog
-https://github.com/nativefier/nativefier
-https://github.com/nativefier/nativefier/blob/master/CATALOG.md
-
+For more infos and references please check the gituhb page and catalog  
+https://github.com/nativefier/nativefier  
+https://github.com/nativefier/nativefier/blob/master/CATALOG.md  
 ## Installation:
 
 ### Create Windows app from a website:
